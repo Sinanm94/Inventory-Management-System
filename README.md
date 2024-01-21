@@ -47,6 +47,6 @@ This project is licensed under the [MIT License](LICENSE).
 For inquiries, contact [Muhammed Sinan](mailto:muhammedsinan203@gmail.com).
 
 ## Product Structure
-Google_Sheet.xlsx: Inventory_Management_System--> Google Sheet Access.
-Google_Script_Code.gs: Inventory_Management.gs .
-README.md: Instructions.
+-**Google_Sheet.xlsx: Inventory_Management_System--> Google Sheet Access.
+-**Google_Script_Code.gs: Inventory_Management.gs .
+-**README.md: Instructions.
