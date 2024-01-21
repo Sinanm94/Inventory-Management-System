@@ -48,5 +48,5 @@ For inquiries, contact [Muhammed Sinan](mailto:muhammedsinan203@gmail.com).
 
 ## Product Structure
 Google_Sheet.xlsx: Inventory_Management_System--> Google Sheet Access.
-Google_Script_Code.gs: .
+Google_Script_Code.gs: Inventory_Management.gs .
 README.md: Instructions.
